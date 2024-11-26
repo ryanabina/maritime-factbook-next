@@ -1,4 +1,4 @@
-import AppProvider from '@/app/providers/AppProvider';
+import AppProvider from '@/providers/AppProvider';
 import { Header } from '@/components/landing/Header';
 import { Footer } from '@/components/reusable';
 export default function RootLayout({
